@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+
+    <string name="updates">اپدیت ها</string>
+    <string name="about">درباره ما</string>
+    <string name="options">آپشن ها</string>
+    <string name="upload">آپلود</string>
+    <string name="download">دانلود</string>
+    <string name="news">اخبار</string>
+    <string name="price">قیمت</string>
+    <string name="account">حساب</string>
+    <string name="credit">اعتبار</string>
+    <string name="txtCheap">ارزان ترین</string>
+    <string name="txtExpensive">گران ترین</string>
+    <string name="txtLiked">محبوب ترین</string>
+
+
+</resources>
