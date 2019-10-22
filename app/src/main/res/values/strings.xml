@@ -14,5 +14,8 @@
     <string name="txtExpensive">گران ترین</string>
     <string name="txtLiked">محبوب ترین</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
 </resources>

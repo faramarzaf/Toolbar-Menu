@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/creditItem"
+            android:icon="@drawable/ic_money"
+            android:title="اعتبار" />
+        <item
+            android:id="@+id/bankAccount"
+            android:icon="@drawable/ic_account"
+            android:title="حساب بانکی" />
+    </group>
+</menu>
