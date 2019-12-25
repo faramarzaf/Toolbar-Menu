@@ -1,24 +1,18 @@
 package com.faramarz.tictacdev.toolbar.menu;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.view.ContextThemeWrapper;
-import androidx.core.content.ContextCompat;
-
-import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.style.ImageSpan;
 import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.SubMenu;
 import android.view.View;
-import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.faramarz.tictacdev.toolbar.R;
-import com.faramarz.tictacdev.toolbar.toolbar.ToolbarActivity;
 
 public class MenuActivity extends AppCompatActivity {
     private static final int FILE = 0;

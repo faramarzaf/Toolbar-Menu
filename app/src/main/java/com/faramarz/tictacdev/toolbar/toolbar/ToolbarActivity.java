@@ -1,13 +1,5 @@
 package com.faramarz.tictacdev.toolbar.toolbar;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.view.ContextThemeWrapper;
-import androidx.appcompat.widget.PopupMenu;
-import androidx.appcompat.widget.Toolbar;
-import androidx.drawerlayout.widget.DrawerLayout;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
-
 import android.content.Context;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -16,6 +8,14 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.view.ContextThemeWrapper;
+import androidx.appcompat.widget.PopupMenu;
+import androidx.appcompat.widget.Toolbar;
+import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 
 import com.faramarz.tictacdev.toolbar.R;
 import com.google.android.material.navigation.NavigationView;
@@ -57,8 +57,7 @@ public class ToolbarActivity extends AppCompatActivity implements View.OnClickLi
             }
         });
 
-      }
-
+    }
 
 
     @Override
