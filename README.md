@@ -56,9 +56,7 @@ It’s not visible by default and it needs to opened either by sliding from left
 
 
 <p align="center">
-  <img src="https://storage.googleapis.com/spec-host-backup/mio-components%2Fassets%2F1nsuL8VDpBW_LZYXgabK1H0uq6icmmKYt%2Fnav-drawer-intro.png" height=450 width=330/>
-  
-   <img src="https://nexttechpro.com/wp-content/uploads/2019/11/Android-Navigation-Drawer-576x1024.png" height=450 width=300/>
+  <img src="https://storage.googleapis.com/spec-host-backup/mio-components%2Fassets%2F1nsuL8VDpBW_LZYXgabK1H0uq6icmmKYt%2Fnav-drawer-intro.png" height=450 width=390/>
 </p>
 
   
